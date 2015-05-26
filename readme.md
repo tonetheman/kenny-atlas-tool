@@ -6,7 +6,7 @@ See here for his main site
 http://www.kenney.nl/
 
 How to use: 
-python produce-kenny-atlas.py -i <xml file> -p <png file>
+python produce-kenny-atlas.py -i XMLFILE -p PNGFILE 
 - the xml file is the spritesheet xml file that kenny provides in the spritesheet directory
 - the png file is the matching png file for the xml file (the spritesheet)
 
