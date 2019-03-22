@@ -56,4 +56,4 @@ for child in root:
 			"h" : int(child.attrib["height"]) }
 		o["frames"].append(tmp)
 
-print json.dumps(o)
+print(json.dumps(o))
